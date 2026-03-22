@@ -22,6 +22,9 @@
 - 🏆 Scored **96 percentile** in MHT-CET Maharashtra State Entrance Exam
 - 🌍 Based in **Pimpri-Chinchwad, Maharashtra, India**
 - 💬 Fluent in **English**, **Hindi**, and **Marathi**
+- 🏅 **Finalist** – Smart India Hackathon **(SIH'25) Grand Finale**
+- 🎯 **Finalist** – **MIT Kurukshetra** Hackathon
+- 🤖 **Finalist** – **OpenAI × NxtWave AI Buildathon 2025**
 
 ---
 
