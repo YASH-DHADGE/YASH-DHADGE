@@ -98,8 +98,11 @@
 
 ## 💼 Experience
 
-**Java Programmer Intern** — *Internpe* (Remote) | Feb – Mar 2025
-- Applied core Java concepts including OOPs, exception handling, and file management in mini-projects
+**Full Stack Developer Intern** — *Scriptlet Solutions* (Hybrid) | Jan 2026 – Present
+- Building and maintaining full-stack web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- Developing RESTful APIs and integrating third-party services to support product features
+- Collaborating with cross-functional teams in an agile environment to deliver features across sprint cycles
+- Contributing to UI/UX improvements, performance optimization, and code reviews on production codebases
 
 ---
 
@@ -107,9 +110,10 @@
 
 | Organization | Role | Duration |
 |---|---|---|
-| CodeCraft × PCCOER | Executive Team Member | Aug 2024 – Present |
-| ACM × PCCOER | Technical Team Member | Aug 2024 – Present |
-| RoboHawk, PCCOER | Professional Relations Co-Head | Aug 2024 – Present |
+| ACM × PCCOER | Chairperson | Aug 2025 – Present |
+| CodeCraft × PCCOER | Executive Team Member | Aug 2024 – Sept 2025 |
+| RoboHawk, PCCOER | Professional Relations Co-Head | Aug 2024 – Mar 2025 |
+| ACM × PCCOER | Technical Team Member | Aug 2024 – Aug 2025 |
 | Navdhara 2024, PCCOER | Executive Team Member | Jun – Aug 2024 |
 
 ---
