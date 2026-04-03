@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Yash Dhadge 👋</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Lives-Pune%2C%20India-blue" alt="Lives in Pune, India" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Marathi-brightgreen" alt="Languages: English, Hindi & Marathi" />
   <b>Full-Stack Developer • AI/ML Enthusiast • Open Source Contributor</b><br/>
   <i>Computer Engineering Student @ PCCOER, Pune | Building things that matter 🚀</i>
 </p>
@@ -14,6 +16,7 @@
 ---
 
 ## 🧑‍💻 About Me
+<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
 
 - 🎓 Pursuing **B.E. in Computer Science** at PCCOER, Ravet, Pune (2023 – 2027)
 - 🛠️ Passionate about **Full-Stack Web Development**, **AI/ML Integration**, and **Cloud Deployment**
@@ -89,9 +92,6 @@
 > Gamified learning platform with interactive educational games  
 **Stack:** React Native / Expo
 
-### 🗣️ PeerVoice Platform
-> Community platform for college students to discuss problems and suggestions  
-**Stack:** HTML, CSS, JavaScript
 
 ---
 
