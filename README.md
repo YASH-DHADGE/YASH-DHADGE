@@ -20,13 +20,11 @@
 
 - 🎓 Pursuing **B.E. in Computer Science** at PCCOER, Ravet, Pune (2023 – 2027)
 - 🛠️ Passionate about **Full-Stack Web Development**, **AI/ML Integration**, and **Cloud Deployment**
-- 🤖 Building AI-powered platforms with **LangChain**, **LangGraph**, and **FastAPI**
-- 📱 Experienced in **React Native/Expo** for cross-platform mobile apps
+- 🤖 Building AI-powered platforms with **n8n** and **FastAPI**
 - 🏆 Scored **96 percentile** in MHT-CET Maharashtra State Entrance Exam
 - 🌍 Based in **Pimpri-Chinchwad, Maharashtra, India**
 - 💬 Fluent in **English**, **Hindi**, and **Marathi**
 - 🏅 **Finalist** – Smart India Hackathon **(SIH'25) Grand Finale**
-- 🎯 **Finalist** – **MIT Kurukshetra** Hackathon
 - 🤖 **Finalist** – **OpenAI × NxtWave AI Buildathon 2025**
 
 ---
@@ -64,8 +62,6 @@
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
