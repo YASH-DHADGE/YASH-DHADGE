@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lives-Pune%2C%20India-blue" alt="Lives in Pune, India" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Marathi-brightgreen" alt="Languages: English, Hindi & Marathi" />
-  <b>Full-Stack Developer • AI/ML Enthusiast • Open Source Contributor</b><br/>
+  <b>Full-Stack Developer • AI/ML and Devops Enthusiast </b><br/>
   <i>Computer Engineering Student @ PCCOER, Pune | Building things that matter 🚀</i>
 </p>
 
